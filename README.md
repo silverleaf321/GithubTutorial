@@ -1,7 +1,7 @@
 # Tutorial
 Hey guys, so, could you branch off of this commit, with a branch name of
 ```
-<First_name>-Tutorial
+<First_name>-tutorial
 ```
 
 Then change this file, so it says your name right here
