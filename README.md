@@ -9,6 +9,7 @@ Then change this file, so it says your name right here
 <Put your name Here>
 Ashton Cho
 <Calvin>
+Dylan Starink
 ```
 
 Then make a completely new change here:
@@ -17,5 +18,6 @@ https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
 - [ ] didnt plagiarize a checklist
 - [ ] List
+- [ ] Create a Checklist
 
 <h1>Big word</h1>
