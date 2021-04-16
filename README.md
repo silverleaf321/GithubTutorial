@@ -6,13 +6,15 @@ Hey guys, so, could you branch off of this commit, with a branch name of
 
 Then change this file, so it says your name right here
 ```
+William Chen
 <Lucas>
 Ashton Cho
 <Calvin>
 Dylan Starink
 ```
 
-Then make a completely new change here:
+Then make a completely new change here: 
+**???**
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 (Here's a Cheatsheet)
 
